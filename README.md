@@ -1,5 +1,5 @@
 ### Hola a todos, saludos cordiales! 👋
-Soy estudiante universitario, del sexto ciclo de la Universidad Tecnologica de El Salvador...
+Soy estudiante universitario, del sexto ciclo de la Universidad Tecnologica de El Salvador...<br>
 Queriendo ser un gran ingeniero en sistemas, con muy buenas practicas, con muy buenos conocimientos y poder ser un gran profesional...
 <!--
 **AlvaroJavier1/AlvaroJavier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
